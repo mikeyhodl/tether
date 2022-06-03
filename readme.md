@@ -1,9 +1,4 @@
 # **tether!** Swing Around a Ball of Destruction!
-
-![demo](https://tether.rayhanadev.repl.co/public/opengraphimage.png)
-
-### PLAY IT [FULLSCREEN](https://tether.rayhanadev.repl.co) NOW!
-
 ---
 
 **tether!** is game where you **wreck as many enemies as possible** using your tether, however if an enemy touches your ball then **you get obliterated**! This game has full mobile and offline support, designed as a progressive web application! This is my group's end-of-the-year project for our CS class.
