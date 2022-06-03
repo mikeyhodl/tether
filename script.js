@@ -376,8 +376,8 @@ function Music() {
   var self = this,
       path;
 
-  if (INFO) path = 'https://res.cloudinary.com/weknow-creators/video/upload/v1653724775/club%20life/e168a16951ef7437b95e3b4d22f2ca22.mp3_yq5ukr.mp3';
-  else path = 'https://res.cloudinary.com/weknow-creators/video/upload/v1653724775/club%20life/e168a16951ef7437b95e3b4d22f2ca22.mp3_yq5ukr.mp3';
+  if (INFO) path = 'https://raw.githubusercontent.com/mikeyhodl/tether/main/bgm.mp3';
+  else path = 'https://raw.githubusercontent.com/mikeyhodl/tether/main/bgm.mp3';
 
   self.element = new Audio(path);
 
@@ -397,7 +397,7 @@ function Music() {
 }
 Music.prototype = {
   bpm: 90,
-  url: 'https://res.cloudinary.com/weknow-creators/video/upload/v1653724775/club%20life/e168a16951ef7437b95e3b4d22f2ca22.mp3_yq5ukr.mp3',
+  url: 'https://raw.githubusercontent.com/mikeyhodl/tether/main/bgm.mp3',
   delayCompensation: 0.03,
 
   totalBeat: function() {
